@@ -1,0 +1,30 @@
+{
+  "name": "reg_express",
+  "version": "1.0.0",
+  "description": "Regular expressions route paths",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsswenson/320-reg-express.git"
+  },
+  "keywords": [
+    "regular",
+    "expressions",
+    "route",
+    "paths"
+  ],
+  "author": "Lars Swenson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larsswenson/320-reg-express/issues"
+  },
+  "homepage": "https://github.com/larsswenson/320-reg-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
